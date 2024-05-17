@@ -1,0 +1,14 @@
+{
+  "name": "Java Project",
+  "service": "java",
+  "dockerComposeFile": "../.app/compose.yml",
+  "workspaceFolder": "/workspace",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "vmware.vscode-boot-dev-pack",
+        "vscjava.vscode-java-pack"
+      ]
+    }
+  }
+}
